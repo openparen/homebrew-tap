@@ -1,6 +1,6 @@
 cask "remora" do
-  version "0.1.4"
-  sha256 "8a28f0927773fd81891854f2fe2077ca4eb75b35db62b35fe1fb7ab54ca2d99f"
+  version "0.1.5"
+  sha256 "ad1802aaaed5fb8993818b53e1eedfa57e1fa61e0afad4f8b26f522725693bb2"
 
   url "https://github.com/openparen/remora/releases/download/v#{version}/Remora-#{version}.dmg"
   name "Remora"
